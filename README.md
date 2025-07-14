@@ -1,4 +1,4 @@
-# 📄 Certifications & Campus Achievements
+# 🎓 Certifications & Campus Achievements
 
 Welcome to my professional certifications repository!
 
@@ -6,7 +6,7 @@ Here you'll find certificates and offer letters representing my active involveme
 
 ---
 
-## 🎓 Internshala Student Partner (ISP) – Direct Entry Winner
+## 🚀 Internshala Student Partner (ISP) – Direct Entry Winner
 - **Issuer**: Internshala
 - **Date**: July 2025
 - **Description**: Selected through Direct Entry by successfully referring 15 students. Recognized for leadership and outreach skills.
@@ -14,7 +14,7 @@ Here you'll find certificates and offer letters representing my active involveme
 
 ---
 
-## 🎯 Campus Ambassador – Eduveda Academy
+## 📣 Campus Ambassador – Eduveda Academy
 - **Role**: Marketing Intern
 - **Duration**: July–August 2025
 - **Description**: Representing Eduveda on campus, promoting educational services and engaging in real-world marketing efforts.
@@ -22,7 +22,7 @@ Here you'll find certificates and offer letters representing my active involveme
 
 ---
 
-## 🚀 Campus Executive – Alpha Innovation
+## 🎯 Campus Executive – Alpha Innovation
 - **Role**: Campus Executive (Marketing Intern)
 - **Duration**: July–August 2025
 - **Description**: Selected for a short-term marketing internship involving brand promotion, lead generation, and outreach.

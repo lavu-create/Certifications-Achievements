@@ -62,7 +62,7 @@ Here you'll find certificates, offer letters, and credentials representing my ac
 - **Role**: Marketing Intern
 - **Duration**: July–August 2025
 - **Description**: Representing Eduveda on campus, promoting educational services and engaging in real-world marketing efforts.
-- 📄 [View Offer Letter](./Campus-Ambassador-OfferLetterr.pdf)
+- 📄 [View Offer Letter](./Campus-Ambassador-OfferLetter.pdf)
 
 ---
 
